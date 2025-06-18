@@ -1,0 +1,4 @@
+So far, I’ve learned how to use Git and GitHub effectively for version control and collaboration.
+I understand the basics of cloning repositories, making changes locally, committing those changes,
+and pushing them back to GitHub. I also learned how to work with branches, 
+pull requests, and how to resolve merge conflicts.
