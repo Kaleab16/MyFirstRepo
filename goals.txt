@@ -1,5 +1,0 @@
-- Gain solid practical experience with Git and GitHub by regularly using branching, pull requests, and managing my own small projects
-- Make at least one meaningful contribution to an open-source project and maintain clear documentation for my own work
-- Work consistently to fill my GitHub contribution graph throughout the year by committing regularly and contributing to various projects
-- Experiment with GitHub Actions to automate simple workflows like running tests or deploying projects
-- Create and launch a fully responsive personal portfolio website that integrates with GitHub to showcase completed projects
